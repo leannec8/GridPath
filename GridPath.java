@@ -66,8 +66,7 @@ public class GridPath {
         return s;
     }
 
-    public String toString() 
-    {
+    public String toString() {
         String s = "";
         for (int[] row : grid)
         {
